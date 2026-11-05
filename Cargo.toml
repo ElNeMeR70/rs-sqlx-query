@@ -1,0 +1,10 @@
+[package]
+name = "rs-sqlx-query"
+version = "1.0.0"
+edition = "2021"
+description = "sqlx-compatible compile-time SQL query builder"
+license = "MIT"
+
+[[bin]]
+name = "rs_sqlx_query"
+path = "main.rs"
